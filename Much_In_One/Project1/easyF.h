@@ -1,6 +1,7 @@
 #pragma once
 #include<bits/stdc++.h>
 #include"bigint_hex.h"
+#include"Mymath.h"
 using ll= long long int;
 using BIH = BigIntHex;
 //未使用bigint的将using BIH = BigIntHex改为using BIH = ll
