@@ -135,6 +135,7 @@
     <ClInclude Include="bigint_header.h" />
     <ClInclude Include="bigint_hex.h" />
     <ClInclude Include="easyF.h" />
+    <ClInclude Include="Mymath.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
