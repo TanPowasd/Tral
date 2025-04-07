@@ -1,0 +1,23 @@
+﻿D:\Program Files\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Project1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+E:\TxT\code\Tral\Much_In_One\Project1\Mymath.h(77,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\TxT\code\Tral\Much_In_One\Project1\easyF.h(13,38): warning C4244: “参数”: 从“ll”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\TxT\code\Tral\Much_In_One\Project1\bigint_base.h(66,33): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“main.cpp”)
+      E:\TxT\code\Tral\Much_In_One\Project1\bigint_base.h(66,33):
+      模板实例化上下文(最早的实例化上下文)为
+          E:\TxT\code\Tral\Much_In_One\Project1\bigint_base.h(122,24):
+          查看对正在编译的 类 模板 实例化“NTT_NS::NTT<167772161>”的引用
+          E:\TxT\code\Tral\Much_In_One\Project1\bigint_base.h(62,14):
+          在编译 类 模板 成员函数“void NTT_NS::NTT<167772161>::transform(NTT_NS::ntt_base_t [],size_t,int)”时
+              E:\TxT\code\Tral\Much_In_One\Project1\bigint_base.h(114,22):
+              请参阅 "NTT_NS::NTT<167772161>::sqr_conv" 中对 "NTT_NS::NTT<167772161>::transform" 的第一个引用
+              E:\TxT\code\Tral\Much_In_One\Project1\bigint_base.h(163,22):
+              请参阅 "NTT_NS::sqr_conv" 中对 "NTT_NS::NTT<167772161>::sqr_conv" 的第一个引用
+  
+E:\TxT\code\Tral\Much_In_One\Project1\Mymath.h(74,1): warning C4715: “fuhao”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> E:\TxT\code\Tral\Much_In_One\x64\Debug\Much_In_One.exe
