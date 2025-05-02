@@ -139,6 +139,7 @@
     <ClInclude Include="JustFun.h" />
     <ClInclude Include="MyGame.h" />
     <ClInclude Include="Mymath.h" />
+    <ClInclude Include="Mymath_fracExtra.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

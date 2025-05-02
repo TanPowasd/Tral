@@ -44,5 +44,8 @@
     <ClInclude Include="MyGame.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Mymath_fracExtra.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
