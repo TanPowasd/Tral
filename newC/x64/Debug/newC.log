@@ -1,0 +1,73 @@
+﻿  main.cpp
+E:\TxT\code\Tral\newC\newC\EasyXOptimize.h(39,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\TxT\code\Tral\newC\newC\EasyXOptimize.h(44,69): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\TxT\code\Tral\newC\newC\EasyXOptimize.h(46,60): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\TxT\code\Tral\newC\newC\EasyXOptimize.h(46,44): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\TxT\code\Tral\newC\newC\EasyXOptimize.h(58,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\TxT\code\Tral\newC\newC\EasyXOptimize.h(63,69): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\TxT\code\Tral\newC\newC\EasyXOptimize.h(65,60): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\TxT\code\Tral\newC\newC\EasyXOptimize.h(65,44): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\TxT\code\Tral\newC\newC\EasyXOptimize.h(95,74): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\TxT\code\Tral\newC\newC\EasyXOptimize.h(95,51): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\TxT\code\Tral\newC\newC\EasyXOptimize.h(125,74): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\TxT\code\Tral\newC\newC\EasyXOptimize.h(125,51): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\TxT\code\Tral\newC\newC\Mymath.h(76,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\TxT\code\Tral\newC\newC\easyF.h(11,38): warning C4244: “参数”: 从“ll”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\TxT\code\Tral\newC\newC\easyF.h(29,25): warning C4244: “参数”: 从“ll”转换到“int32_t”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\TxT\code\Tral\newC\newC\funC.h(62,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\TxT\code\Tral\newC\newC\funC.h(67,69): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\TxT\code\Tral\newC\newC\funC.h(69,60): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\TxT\code\Tral\newC\newC\funC.h(69,44): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\TxT\code\Tral\newC\newC\bigint_base.h(66,33): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“main.cpp”)
+      E:\TxT\code\Tral\newC\newC\bigint_base.h(66,33):
+      模板实例化上下文(最早的实例化上下文)为
+          E:\TxT\code\Tral\newC\newC\bigint_base.h(122,24):
+          查看对正在编译的 类 模板 实例化“NTT_NS::NTT<167772161>”的引用
+          E:\TxT\code\Tral\newC\newC\bigint_base.h(62,14):
+          在编译 类 模板 成员函数“void NTT_NS::NTT<167772161>::transform(NTT_NS::ntt_base_t [],size_t,int)”时
+              E:\TxT\code\Tral\newC\newC\bigint_base.h(114,22):
+              请参阅 "NTT_NS::NTT<167772161>::sqr_conv" 中对 "NTT_NS::NTT<167772161>::transform" 的第一个引用
+              E:\TxT\code\Tral\newC\newC\bigint_base.h(163,22):
+              请参阅 "NTT_NS::sqr_conv" 中对 "NTT_NS::NTT<167772161>::sqr_conv" 的第一个引用
+  
+E:\TxT\code\Tral\newC\newC\Mymath.h(73,1): warning C4715: “fuhao”: 不是所有的控件路径都返回值
+  newC.vcxproj -> E:\TxT\code\Tral\newC\x64\Debug\newC.exe
